@@ -1,0 +1,13 @@
+# folders
+transcripts/
+chatExporter/
+node_modules/
+dist/
+
+# yarn
+yarn.lock
+yarn-error.log
+
+# files
+.env
+src/config.json
